@@ -8,6 +8,8 @@ int main(void) {
   cout << "3\n";
   cout << "4\n";
   cout << "5\n";
+  cout << "6\n";
+  cout << "7\n";
 
   return 0;
 }
